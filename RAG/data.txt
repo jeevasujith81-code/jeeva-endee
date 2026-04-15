@@ -1,0 +1,4 @@
+Machine learning is a subset of artificial intelligence.
+AI helps machines learn from data.
+Python is widely used for AI and ML.
+Endee is a vector database used for semantic search.
