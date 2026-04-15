@@ -78,4 +78,4 @@ Building CLI applications
 🤖 Connect to LLM APIs for smarter answers
 
 ## Author
-Kabeel Raj K
+Jeeva R
